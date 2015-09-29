@@ -1,0 +1,57 @@
+.transitart-portlet button, 
+.transitart-portlet button:ACTIVE,
+.transitart-portlet button:FOCUS,
+.transitart-portlet button:HOVER {
+	background: transparent;
+	border-radius: 0;
+	text-shadow: inherit;
+	border-color: transparent;
+}
+
+.transitart-edit .control-group.field-wrapper {
+    display: inline-block;
+    width: 100%;
+}
+
+
+.transitart-edit .field-wrapper.transitart-contact-link {
+    margin-top: 10px;
+}
+
+.details label {
+	color: gray;
+	font-weight: normal;
+}
+
+.details > div {
+	margin: 0;
+}
+
+.transitart-logo {
+	background: rgba(0, 0, 0, 0) url("../logo.png") no-repeat scroll 0 0 / contain ;
+    display: block;
+    height: 47px;
+    width: 180px;
+    margin-bottom: 30px;
+}
+
+.timetables-portlet-configuration-bottom {
+	margin-top: 20px;
+}
+
+div#transitart-portlet-info {
+	background-color: #4D94C5;
+}
+
+#transitart-white-logo {
+	display: block; 
+	margin: 0 auto 20px; 
+	padding-top: 15px;
+}
+
+#transitart-portlet-info-content {
+	color: #fff; 
+	margin: 0 10px; 
+	padding-bottom: 10px; 
+	text-align: center;
+}
